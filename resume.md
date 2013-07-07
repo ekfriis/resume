@@ -1,71 +1,86 @@
-Markdown Resumé
-===============
+Evan K. Friis, Ph.D.
+====================
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
++1 530 207 0353
+ekfriis@gmail.com
 
-Interests
----------
+Summary
+-------
 
-*   Creating beautiful resumés from simple Markdown documents
-
-
-Work Experience
----------------
-
-*   **Word Processor** (Redmond, WA)
-
-    Junior Resumé Maker, 2006 - 2007
-
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
-
-*   **\LaTeX\ + pdflatex**
-
-    Senior Resumé Maker, 2008 - 2010
-
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
-
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
-
-    Web Resumé Intern, August 2010
-
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
-
-*   **Markdown with Pandoc**
-
-    Resumé Architect, February 2011 - present
-
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+*   Seven years of research and data analysis experience at the Large Hadron
+    Collider (LHC), making a major contribution to the discovery of the Higgs
+    Boson. Designed analyses to make quantitative statistical statements in
+    response to targeted questions about specific phenonmenon, and lead them
+    from conception to publication. Developed novel algorithms and methods to
+    separate signal from noise and model specific physics processes.  Lead teams
+    of physicists, mentored grad students, and worked in a large,
+    results-driven, international collaboration.
 
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **University of California, Davis** 
 
-    B.S. in Submodules, May 2012
+    Ph.D., Experimental High Energy Physics, June 2011
 
+    Thesis: "Search for Neutral MSSM Higgs Bosons Decaying to Pairs of 
+    Tau Leptons at sqrt(s) = 7 TeV" 
+
+    2010 Finalist in UC Davis Big Bang! Business Plan Competition
+
+*   **University of California, San Diego** 
+
+    B.S., Physics, June 2005
+
+
+Work Experience
+---------------
+
+*   **Compact Muon Solenoid (CMS) Experiment at the LHC** 
+
+    Member, 2006 - Present
+
+    -   Convener of the Tau Physics Object Group, coordinating contributions of
+        over 30 physicists
+    -   Elected to the Young Scientist Committee, an advisory committee to the
+        collaboration governing body
+    -   Signing author on over XXX CMS publications
+
+*   **University of Wisconsin, Madison** (based at CERN, Switzerland)
+
+    Postdoctoral Researcher, 2011 - Present
+
+    -   Built new Higgs boson analysis from initial conception, to statistical
+        interpretation, to publication
+    -   Developed new technical method to handle statistical uncertainties on
+        spectral shapes
+    -   Mentored seven graduate students 
+    -   Developed new high-speed electron and tau identification algorithms for
+        implementation on FPGAs
+    -   Lead editor and analyst on three CMS public analyses
+    -   Developed an analysis software framework used to analyze petabytes of
+        LHC data on the Open Science Grid
+
+*   **University of California, Davis** (based in Davis and CERN)
+
+    Graduate Student Researcher, 2006 - 2011
+
+    -   Designed novel likelihood-based algorithm for modeling the invisible
+        energy in tau lepton decays, improving analysis sensitivity by 50\%
+    -   Created neural-network based algorithm which improved identification of
+        $\tau$ leptons by a factor of ten
+    -   Built software to characterize a detector with over 60 million channels
+        and store time-dependent calibration results in a database
 
 Skills
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
+*   Strong Python/C++, especially for data analysis
 
-*   Familiar with GNU Make, bash
+*   Expert in ROOT/RooStats (physics data analysis and statistics frameworks)
 
+*   Grid computing, GNU/Linux, SQL
 
+*   Preparing publication-quality scientific documents, graphics, and
+    presentations
