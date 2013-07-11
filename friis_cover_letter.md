@@ -33,8 +33,8 @@ I am ready to translate this experience to a new opportunity with new
 challenges, and I believe that a data analysis position with Google is the right
 fit. I want to continue to work with a diverse group of smart people, tackling
 hard analytical and computational problems using cutting-edge technologies.
-There is no better place to do this than Google. I would excited to make my own
-unique contribution to the team.
+There is no better place to do this than Google. I would be excited to make my
+own unique contribution to the team.
 
 Sincerely,
 
