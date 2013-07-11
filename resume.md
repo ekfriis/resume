@@ -4,18 +4,18 @@ Evan K. Friis, Ph.D.
 +1 530 207 0353
 ekfriis@gmail.com
 
-Summary [ARE RESUME SUMMARIES STILL A "THING?"]
+Summary
 -------
 
-*   Seven years of research and data analysis experience at the Large Hadron
-    Collider (LHC), making a major contribution to the discovery of the Higgs
-    Boson [PARALLEL PROBLEM: THIS SENTENCE NEEDS A VERB]. Designed analyses to make quantitative statistical statements in
-    response to targeted questions about specific phenonmenon [SHOULD BE PHENOMENA, NO?], and lead [PARALLEL PROBLEM: ARE YOU IN PAST OR PRESENT TENSE?] them
-    from conception to publication. Developed novel algorithms and methods to
-    separate signal from noise and model specific [S/B MODEL-SPECIFIC, NO?] physics processes.  Lead [AGAIN, ARE YOU IN PAST OR PRESENT?] teams
-    of physicists, mentored grad students, and worked in a large,
-    results-driven, international collaboration.
-[YOU HAVEN'T USED 'CERN' IN THIS PARA AND YOU SHOULD.]
+*   Performed original research at the Large Hadron Collider (LHC) at CERN,
+    making a major contribution to the discovery of the Higgs Boson. Designed
+    analyses to make quantitative statistical statements in response to targeted
+    questions about specific phenomena, leading them from conception to
+    publication. Developed novel algorithms and methods to separate signal from
+    noise and model physics processes.  Lead teams of physicists, mentored
+    graduate students, and worked in a large, results-driven, international
+    collaboration.
+
 
 Education
 ---------
@@ -41,12 +41,11 @@ Work Experience
 
     Member, 2006 - Present
 
-    -   Convener of the Tau Physics Object Group, managing contributions of
-        over 30 physicists and directing Tau scientific policy for the
+    -   Convener of the Tau Physics Object Group (POG), managing contributions
+        of over 30 physicists and directing Tau scientific policy for the
         experiment
-    -   Elected to the Young Scientist Committee, an advisory committee to the
-        collaboration governing body
-    -   Signing author on over XXX CMS publications
+    -   USA representative on the Young Scientist Committee, an advisory
+        committee to the collaboration governing body
 
 *   **University of Wisconsin, Madison** (based at CERN, Switzerland)
 
@@ -57,30 +56,30 @@ Work Experience
     -   Developed new technical method to handle statistical uncertainties on
         spectral shapes
     -   Mentored seven graduate students 
-    -   Lead editor and analyst on three CMS public analyses [THIS IS A "TITLE" OR A NOUN AS OPPOSED TO THE OTHER BULLETS WHICH ARE VERBS]
+    -   Lead analyst and paper editor on three CMS public analyses
     -   Developed an analysis software framework used to analyze petabytes of
         LHC data on the Open Science Grid
     -   Developed new high-speed electron and tau identification algorithms for
         implementation on FPGAs
-    -   Liaison between electrical engineers and physicists during commission of
-        new electronics [PARALLEL PROBLEM? MAYBE TRY LIAISED INSTEAD.]
+    -   Liaised between electrical engineers and physicists during commissioning
+        of new electronics
 
 *   **University of California, Davis** (based in Davis and CERN)
 
     Graduate Student Researcher, 2006 - 2011
 
     -   Designed novel likelihood-based algorithm for modeling the invisible
-        energy in tau lepton decays, improving analysis sensitivity by 50\% [IS THAT A FORMATTING THING, THE BACKSLASH AFTER 50?]
+        energy in tau lepton decays, improving analysis sensitivity by 50% 
     -   Created neural-network based algorithm which improved identification of
-        $\tau$ leptons by a factor of ten
-    -   Software maintainer for Tau POG ["MAINTAINED SOFTWARE" NOT "SOFTWARE MAINTAINER"]
+        tau leptons by a factor of ten
+    -   Lead development of software for Tau POG 
     -   Built software to characterize a detector with over 60 million channels
         and store time-dependent calibration results in a database
 
 Skills
 ------
 
-*   Strong Python/C++, especially for data analysis
+*   Strong Python and C++, especially for data analysis
 
 *   Expert in statistics, multivariate analysis, and ROOT/RooStats (physics data
     analysis and statistics frameworks)
@@ -90,4 +89,48 @@ Skills
 *   Preparing publication-quality scientific documents, graphics, and
     presentations
 
-*   Embedded C programming, electronics
+*   Embedded C programming, socket programming, electronics
+
+Selected Publications
+---------------------
+      
+A full list of my CMS publications is at http://inspirehep.net/author/E.Friis.1/
+
+*   "Observation of a new boson at a mass of 125 GeV with the CMS experiment at
+    the LHC". Physics Letters B 716, 2012
+
+*   "Search for the standard model Higgs boson produced in association with W
+    and Z bosons in pp collisions at sqrt(s) = 7 TeV", Journal of High Energy
+    Physics 11, 2012
+
+*   "Performance of tau-lepton reconstruction and identification in CMS",
+    Journal of Instrumentation 7, 2011
+
+Invited Talks
+-------------
+
+*   "Higgs To Tau Tau Tools and Techniques", SUSY Higgs Workshop, Fermilab, June
+    2013
+
+*   "Searches for the Higgs Decaying to Fermions", USCMS Meeting, Vanderbilt,
+    May 2013
+
+*   "Search for Higgs To Tau Tau at CMS", Chicago Workshop on LHC Physics, 
+    University of Chicago, November 2012    
+
+*   "Search for Higgs To Tau Tau at CMS", Fermilab, November 2012    
+
+*   "Search for non-SM Higgs at CMS", Physics@LHC, Vancouver, June 2012
+
+*   "Beyond the Standard Model Higgs at CMS", Higgs Hunting, Orsay, France, July
+    2011
+
+*   "Search for Neutral MSSM Higgs Bosons Decaying to Taus", LPC Physics Forum,
+    Fermilab, April 2011
+
+*   "Tau Reconstruction at CMS", Tau Portal HEFTI Workshop, Davis, April 2011
+
+*   "Tau Reconstruction and Identification", 11th International Workshop on Tau
+    Physics, Manchester, United Kingdom, September 2010
+
+*   "Tau ID Object Performance", USCMS Meeting, Brown University, May 2010
