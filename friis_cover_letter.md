@@ -1,12 +1,14 @@
 Evan K. Friis, Ph.D.
+
 Rue Virginio-Malnati 24
 1217 Meyrin 
 Switzerland
-
 +1 530 207 0353
 ekfriis@gmail.com
 
+
 July 10th, 2013
+
 
 To: Google Human Resources
 
