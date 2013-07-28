@@ -3,6 +3,7 @@ Evan K. Friis, Ph.D.
 
 +1 530 207 0353
 ekfriis@gmail.com
+<https://github.com/ekfriis>
 
 Summary
 -------
@@ -12,9 +13,10 @@ Summary
     analyses to make quantitative statistical statements in response to targeted
     questions about specific phenomena, leading them from conception to
     publication. Developed novel algorithms and methods to separate signal from
-    noise and model physics processes.  Lead teams of physicists, mentored
-    graduate students, and worked in a large, results-driven, international
-    collaboration.
+    noise and model physics processes. Applied and evangelized good software
+    engineering practices to produce robust results, and coordinated work of
+    other developers. Led teams of physicists, mentored graduate students, and
+    worked in a large, results-driven, international collaboration.
 
 
 Education
@@ -45,7 +47,7 @@ Work Experience
         of over 30 physicists and directing tau scientific policy for the
         experiment
     -   USA representative on the Young Scientist Committee, an advisory
-        committee to the collaboration governing body
+        committee to the collaboration's governing body
 
 *   **University of Wisconsin, Madison** (based at CERN, Switzerland)
 
@@ -55,17 +57,23 @@ Work Experience
         interpretation, to publication
     -   Developed new technical method to handle statistical uncertainties on
         spectral shapes
+    -   Led analysis and edited paper for three CMS public analyses
     -   Mentored seven graduate students 
-    -   Lead analysis and edited paper for three CMS public analyses
-    -   Developed an analysis software framework used to analyze petabytes of
-        LHC data on the Open Science Grid
-    -   Developed new high-speed identification algorithms for
-        implementation on FPGAs
-    -   Liaised between electrical engineers and physicists during commissioning
-        of new electronics
-    -   Maintained, developed, and operated distributed control system for large
-        installation of custom high-speed electronics used to trigger on
-        interesting collisions
+    -   Released stable versions of algorithms, analysis software, and results
+        on time for multiple major conferences (the physicists' version of the
+        product launch) per year
+    -   Lead developer and code manager of a C++ and Python software framework
+        [1] used to analyze petabytes of LHC data on the Open Science Grid
+    -   Designed and implemented TCP/IP control/readout interface for
+        embedded systems in calorimeter trigger electronics [2]
+    -   Maintained and operated a distributed C++ control system for large and
+        mission-critical installation of custom high-speed electronics 
+    -   Developed new high-speed identification algorithms for implementation on
+        FPGAs
+    -   Adapted statistical limit setting software to run on cluster computing
+        resources
+
+\clearpage
 
 *   **University of California, Davis** (based in Davis and CERN)
 
@@ -75,7 +83,7 @@ Work Experience
         energy in tau lepton decays, improving analysis sensitivity by 50% 
     -   Created neural-network based algorithm which improved the identification
         of tau leptons by a factor of ten
-    -   Lead development of software for Tau POG 
+    -   Led development of C++ event reconstruction software for the Tau POG 
     -   Built software to characterize a detector with over 60 million channels
         and store time-dependent calibration results in a database
 
@@ -84,7 +92,7 @@ Skills
 
 *   Strong Python and C++, especially for data analysis
 
-*   Expert in statistics, multivariate analysis, and ROOT (physics data analysis
+*   Statistics, multivariate analysis, and ROOT (physics data analysis
     and statistics frameworks)
 
 *   Grid computing, GNU/Linux and its trimmings, SQL
@@ -92,9 +100,9 @@ Skills
 *   Preparing publication-quality scientific documents, graphics, and
     presentations
 
-*   Embedded C programming, socket programming, electronics
+*   Embedded C programming, electronics
 
-*   Assembling IKEA furniture, English motorcycles from the 1970s
+*   Assembling IKEA furniture, repairing English motorcycles from the 1970s
 
 Selected Publications
 ---------------------
@@ -121,9 +129,9 @@ Invited Talks
     May 2013
 
 *   "Search for Higgs To Tau Tau at CMS", Chicago Workshop on LHC Physics, 
-    University of Chicago, November 2012    
+    University of Chicago, November 2012
 
-*   "Search for Higgs To Tau Tau at CMS", Seminar, Fermilab, November 2012    
+*   "Search for Higgs To Tau Tau at CMS", Seminar, Fermilab, November 2012
 
 *   "Search for non-SM Higgs at CMS", Physics@LHC, Vancouver, June 2012
 
@@ -139,3 +147,7 @@ Invited Talks
     Physics, Manchester, United Kingdom, September 2010
 
 *   "Tau ID Object Performance", USCMS Meeting, Brown University, May 2010
+
+[1] <https://github.com/uwcms/FinalStateAnalysis>
+
+[2] <https://github.com/uwcms/soft-ipbus>
