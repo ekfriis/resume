@@ -24,6 +24,9 @@ Senior Staff Software Engineer
 
 - Google Insights Finder (2013-2020)
   - Backend tech lead for a consumer insights product used by large Google advertisers
-  -
-  - Built pipelines that processed
-  -
+  - Built 
+  - Designed and built:
+    - pipelines that indexed petabytes of Google user data,
+    - distributed backend system to query, aggregate, and describe arbitrary groups of users from a 3B user corpus with sub-second latency.
+    - algorithms and classifiers to ensure user privacy, safety, and brand suitability
+    - pipeline that indexed Google query trends 
