@@ -48,7 +48,8 @@ Postdoc on CMS experiment at the Large Hadron Collider
 ## Education 
 
  - 2011 - Ph.D. in Experimental High-Energy Particle physics. UC Davis
-   - Thesis: Search for Neutral MSSM Higgs Bosons Decaying to Pairs of Tau Leptons at √7 TeV.  Developed new dynamical likelihood method for reconstructing Higgs Boson mass in Tau decays.
+   - Thesis: Search for Neutral MSSM Higgs Bosons Decaying to Pairs of Tau Leptons at √7 TeV.
+   - Developed new dynamical likelihood algorithm for reconstructing Higgs Boson mass in Tau decays.
  - 2005 - B.S. in Physics, UC San Diego
 
 ## Skills
