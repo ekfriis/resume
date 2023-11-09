@@ -18,7 +18,7 @@ Senior Staff Software Engineer (2022-Present)
 Staff Software Engineer (2020-2022)  
 Senior Software Engineer (2017-2020)
 
-- Google Assistant, NLU Platform Infrastructure (2020 - present)
++ Google Assistant, NLU Platform Infrastructure (2020 - present)
   - Tech lead for new Assistant multi-tenant platform to un-spaghettify Natural Language Understanding (NLU).
   - Scaled system from zero to 30+ client teams serving 30k QPS.
   - Factored advanced NLU retrieval algorithms into simple microservice building blocks to improve reliability, reusability, and developer velocity.
@@ -26,7 +26,7 @@ Senior Software Engineer (2017-2020)
   - Collaborated with NLP researchers and Assistant feature engineers to design a platform balancing research flexibility with development simplicity and stability.
   - Currently a lead infrastructure architect on efforts to leverage LLMs to improve Assistant by enabling LLM-driven composition of existing features to enable new user journeys.
 
-- Google Insights Finder (2013-2020)
++ Google Insights Finder (2013-2020)
   - Backend tech lead for a consumer insights product used by internal sales teams and large Google advertisers.
   - Turned ad-hoc, highly curated sales analyses into a low-latency, customer-facing production system by building:
     - pipelines that indexed petabytes of Google user data,
@@ -49,10 +49,10 @@ Postdoc on Large Hadron Collider at CERN (CMS Experiment)
 
 ## Education 
 
- - 2011 - Ph.D. in Experimental High-Energy Particle Physics, UC Davis
+ + 2011 - Ph.D. in Experimental High-Energy Particle Physics, UC Davis
    - Thesis: Search for Neutral MSSM Higgs Bosons Decaying to Pairs of Tau Leptons.
    - Developed a novel geometric dynamical likelihood algorithm for reconstructing Higgs Boson mass in Tau decays.
- - 2005 - B.S. in Physics, UC San Diego
+ + 2005 - B.S. in Physics, UC San Diego
 
 ## Skills
 
