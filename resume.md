@@ -12,13 +12,13 @@ I'm a technologist that likes to build things that have value, whether that is h
 
 ## Work Experience
 
-#### Google 2013 - present (Los Angeles, CA)
+### Google 2013 - present (Los Angeles, CA)
 
 Senior Staff Software Engineer (2022-Present)  
 Staff Software Engineer (2020-2022)  
 Senior Software Engineer (2017-2020)
 
-+ Google Assistant, NLU Platform Infrastructure (2020 - present)
+#### Google Assistant, NLU Platform Infrastructure (2020 - present)
   - Tech lead for new Assistant multi-tenant platform to un-spaghettify Natural Language Understanding (NLU).
   - Scaled system from zero to 30+ client teams serving 30k QPS.
   - Factored advanced NLU retrieval algorithms into simple microservice building blocks to improve reliability, reusability, and developer velocity.
@@ -26,7 +26,7 @@ Senior Software Engineer (2017-2020)
   - Collaborated with NLP researchers and Assistant feature engineers to design a platform balancing research flexibility with development simplicity and stability.
   - Currently a lead infrastructure architect on efforts to leverage LLMs to improve Assistant by enabling LLM-driven composition of existing features to enable new user journeys.
 
-+ Google Insights Finder (2013-2020)
+#### Google Insights Finder (2013-2020)
   - Backend tech lead for a consumer insights product used by internal sales teams and large Google advertisers.
   - Turned ad-hoc, highly curated sales analyses into a low-latency, customer-facing production system by building:
     - pipelines that indexed petabytes of Google user data,
@@ -36,7 +36,7 @@ Senior Software Engineer (2017-2020)
   - Worked with product, go-to-market teams, and external customers to learn their problems and underlying needs firsthand.
   - Worked across product areas to build state-of-the-art anonymization and brand safety systems that would convince data owners, legal, public relations, and privacy stakeholders that we could create advertiser utility from user data safely and ethically.
 
-#### University of Wisconsin, Madison
+### University of Wisconsin, Madison
 Postdoctoral Researcher 2011 - 2013 (Wisconsin & Geneva, Switzerland)
 
 Postdoc on Large Hadron Collider at CERN (CMS Experiment)
