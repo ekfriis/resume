@@ -14,9 +14,9 @@ I'm a technologist that likes to build things that have value, whether that is h
 
 #### Google 2013 - present (Los Angeles, CA)
 
-Senior Staff Software Engineer (2022-Present)
-Staff Software Engineer (2020-2022)
-Senior Software Engineer (2017-2020)
+Senior Staff Software Engineer (2022-Present)  
+Staff Software Engineer (2020-2022)  
+Senior Software Engineer (2017-2020)  
 
 - Google Assistant, NLU Platform Infrastructure (2020 - present)
   - Tech lead for new Assistant multi-tenant platform to un-spaghettify Natural Language Understanding (NLU).
