@@ -18,35 +18,38 @@ I'm a technologist that likes to build things that have value, whether that is h
 
 ## Work Experience
 
-#### Google 2013 - present (Los Angeles, CA)
+### Google 2013 - present (Los Angeles, CA)
 
 Senior Staff Software Engineer (2022-Present)  
 Staff Software Engineer (2020-2022)  
 Senior Software Engineer (2017-2020)
 
-- Google Assistant, NLU Platform Infrastructure (2020 - present)
+#### Google Assistant, NLU Platform Infrastructure (2020 - present)
 
-  - Tech lead for new Assistant multi-tenant platform to un-spaghettify Natural Language Understanding (NLU).
-  - Scaled system from zero to 30+ client teams serving 30k QPS, as part of a multi-year Assistant-wide initiative to migrate all feature code behind well-defined APIs.
-  - Factored advanced NLU retrieval algorithms into simple microservice building blocks to improve reliability, data security, reusability, and developer velocity.
-  - Built a friendly platform and clean APIs to enable NLU development by regular SWEs instead of linguists, removing a years-long staffing bottleneck.
-  - Worked with NLU researchers to enable experimentation within a principled platform, and a path to bring winning ideas into production without creating tech debt.
-  - Lead infrastructure architect on efforts to leverage LLMs to improve Assistant to refactor the platform to enable LLM-driven composition of existing features to enable new user journeys.
-  - Business impact: simplification and consolidation have driven CSAT and latency wins across many features, semantic APIs are enabling new LLM integrations.
+- Tech lead for new Assistant multi-tenant platform to un-spaghettify Natural Language Understanding (NLU).
+- Scaled system from zero to 30+ client teams serving 30k QPS, as part of a multi-year Assistant-wide initiative to migrate all feature code behind well-defined APIs.
+- Factored advanced NLU retrieval algorithms into simple microservice building blocks to improve reliability, data security, reusability, and developer velocity.
+- Built a friendly platform and clean APIs to enable NLU development by regular SWEs instead of linguists, removing a years-long staffing bottleneck.
+- Worked with NLU researchers to enable experimentation within a principled platform, and a path to bring winning ideas into production without creating tech debt.
+- Lead infrastructure architect on efforts to leverage LLMs to improve Assistant to refactor the platform to enable LLM-driven composition of existing features to enable new user journeys.
+- Business impact: simplification and consolidation have driven CSAT and latency wins across many features, semantic APIs are enabling new LLM integrations.
 
-- Google Insights Finder (2013-2020)
-  - Backend tech lead for a consumer insights product used by internal sales teams and large Google advertisers and marketers.
-  - Turned ad-hoc sales analyses into a low-latency, customer-facing production system by building pipelines that continuously indexed petabytes of Google user data and a distributed backend to query, aggregate, and describe arbitrary groups of users from a 3B user corpus with sub-second latency.
-  - Scaled large pipeline (4PB of shuffle) from monthly releases with manual QA to daily automated pushes via optimization, incremental updates, and development of automated data quality measurements.
-  - Worked with product, go-to-market, and external customers to learn their problems and underlying needs firsthand.
-  - Worked across product areas to build state-of-the-art anonymization and brand safety algorithms and systems that would convince data owners, legal, public relations, and privacy stakeholders that we could create advertiser utility from user data safely and ethically.
-  - Business impact: Insights used in $3B+ ARR of Google advertising campaigns, highest CSAT (90%) of all Google sales tools. Insights Finder was used to help pick the cast of the Dune movie!
+#### Google Insights Finder (2013-2020)
+
+- Backend tech lead for a consumer insights product used by internal sales teams and large Google advertisers and marketers.
+- Turned ad-hoc sales analyses into a low-latency, customer-facing production system by building pipelines that continuously indexed petabytes of Google user data and a distributed backend to query, aggregate, and describe arbitrary groups of users from a 3B user corpus with sub-second latency.
+- Scaled large pipeline (4PB of shuffle) from monthly releases with manual QA to daily automated pushes via optimization, incremental updates, and development of automated data quality measurements.
+- Worked with product, go-to-market, and external customers to learn their problems and underlying needs firsthand.
+- Worked across product areas to build state-of-the-art anonymization and brand safety algorithms and systems that would convince data owners, legal, public relations, and privacy stakeholders that we could create advertiser utility from user data safely and ethically.
+- Business impact: Insights used in $3B+ ARR of Google advertising campaigns, highest CSAT (90%) of all Google sales tools. Insights Finder was used to help pick the cast of the Dune movie!
+
+### Large Hadron Collider
 
 #### University of Wisconsin, Madison
 
 Postdoctoral Researcher 2011 - 2013 (Wisconsin & Geneva, Switzerland)
 
-Postdoc on Large Hadron Collider at CERN (CMS Experiment)
+Postdoc at CERN (Compact Muon Solenoid Experiment)
 
 - Author (among many) on Higgs Boson discovery paper, editor for the Vector-Boson Higgs search.
 - Designed embedded algorithms and control systems for calorimeter trigger, based on the Microblaze FPGA platform.
