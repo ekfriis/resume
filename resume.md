@@ -43,7 +43,7 @@ Senior Software Engineer (2017-2020)
 - Worked across product areas to build state-of-the-art anonymization and brand safety algorithms and systems that would convince data owners, legal, public relations, and privacy stakeholders that we could create advertiser utility from user data safely and ethically.
 - Business impact: Insights used in $3B+ ARR of Google advertising campaigns, highest CSAT (90%) of all Google sales tools. Insights Finder was used to help pick the cast of the Dune movie!
 
-### Large Hadron Collider
+### Large Hadron Collider (2006 - 2013)
 
 #### University of Wisconsin, Madison
 
@@ -66,10 +66,10 @@ Grad Student Researcher 2006 - 2011 (Davis & Geneva, Switzerland)
 
 ## Education
 
-- 2011 - Ph.D. in Experimental High-Energy Particle Physics, UC Davis
+- 2011 Ph.D. in Experimental High-Energy Particle Physics, UC Davis
   - Thesis: Search for Neutral MSSM Higgs Bosons Decaying to Pairs of Tau Leptons.
   - Developed a novel geometric dynamical likelihood algorithm for reconstructing Higgs Boson mass in Tau decays.
-- 2005 - B.S. in Physics, UC San Diego
+- 2005 B.S. in Physics, UC San Diego
 
 ## Skills
 

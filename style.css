@@ -1,3 +1,53 @@
-html {
-    font-family: sans-serif;
+body {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  color: #333;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  color: #000080; /* Navy blue for headers */
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  font-size: 20px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.3em;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+ul, p {
+  font-size: 14px;
+}
+
+a {
+  color: #000080; /* Same as headers for consistency */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Layout and spacing */
+div.column {
+  width: 45%; /* Slightly less than half to account for margins */
+  margin-right: 5%;
+}
+
+/* Print styles */
+@media print {
+  a {
+    text-decoration: underline;
+    color: black;
+  }
+  /* Add any other print-specific styles here */
 }
