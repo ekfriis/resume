@@ -31,7 +31,7 @@ Senior Software Engineer (2017-2020)
   - Turned ad-hoc sales analyses into a low-latency, customer-facing production system by building pipelines that indexed petabytes of Google user data and a distributed backend to query, aggregate, and describe arbitrary groups of users from a 3B user corpus with sub-second latency.
   - Worked with product, go-to-market, and external customers to learn their problems and underlying needs firsthand.
   - Worked across product areas to build state-of-the-art anonymization and brand safety algorithms and systems that would convince data owners, legal, public relations, and privacy stakeholders that we could create advertiser utility from user data safely and ethically.
-  - Business impact: Insights used in $1B+ of Google advertising campaigns, highest CSAT (90%) of all Google sales tools.  
+  - Business impact: Insights used in $3B+ ARR of Google advertising campaigns, highest CSAT (90%) of all Google sales tools.  
 
 #### University of Wisconsin, Madison
 Postdoctoral Researcher 2011 - 2013 (Wisconsin & Geneva, Switzerland)
