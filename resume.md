@@ -42,7 +42,7 @@ Postdoc on Large Hadron Collider at CERN (CMS Experiment)
 
 -  Author (among many) on Higgs Boson discovery paper, editor for the Vector-Boson Higgs search.
 -  Designed embedded algorithms and control systems for calorimeter trigger, based on the Microblaze FPGA platform.
--  Built a data analysis platform to support UW’s physics analyses of LHC data, used by the group for 7 years after I left.
+-  Built a data analysis platform to support UW’s physics analyses of LHC data, used for 7 years after I left.
 -  Convener of Tau Physics Object Group, organizing physics efforts across multiple university groups and labs.
 
 #### University of California, Davis
