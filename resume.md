@@ -30,7 +30,6 @@ experience in Google Home and Nest devices. My work has focused on enabling
 developers to use LLMs to solve previously intractable quality problems while
 maintaining low latency and enabling reuse of existing APIs and a decade of
 edge-case engineering via RAG and tool-use.
-https://blog.google/products/google-nest/gemini-google-home/
 
 - Tech lead for a multi-tenant platform that un-spaghettifed Assistant Natural Language Understanding (NLU).
 - Scaled NLU platform from zero to 30+ client teams serving 30k QPS, leading the NLU piece of a multi-year Assistant-wide initiative to migrate all feature code behind well-defined APIs.
