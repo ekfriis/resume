@@ -26,7 +26,7 @@ Senior Software Engineer (2017-2020)
 
 Currently, I serve as the uber tech lead for evolving the Assistant
 infrastructure and developer platform to leverage LLMs to improve user
-experience in Google Home and Nest devices. My work has been focused on enabling
+experience in Google Home and Nest devices. My work has focused on enabling
 developers to use LLMs to solve previously intractable quality problems while
 maintaining low latency and enabling reuse of existing APIs and a decade of
 edge-case engineering via RAG and tool-use.
