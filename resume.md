@@ -24,6 +24,14 @@ Senior Software Engineer (2017-2020)
 
 #### Google Assistant, NLU Platform Infrastructure <span class="small-text">(2020-Present)</span>
 
+Currently, I serve as the uber tech lead for evolving the Assistant
+infrastructure and developer platform to leverage LLMs to improve user
+experience in Google Home and Nest devices. My work has been focused on enabling
+developers to use LLMs to solve previously intractable quality problems while
+maintaining low latency and enabling reuse of existing APIs and a decade of
+edge-case engineering via RAG and tool-use.
+https://blog.google/products/google-nest/gemini-google-home/
+
 - Tech lead for a multi-tenant platform that un-spaghettifed Assistant Natural Language Understanding (NLU).
 - Scaled NLU platform from zero to 30+ client teams serving 30k QPS, leading the NLU piece of a multi-year Assistant-wide initiative to migrate all feature code behind well-defined APIs.
 - Factored advanced NLU retrieval algorithms into simple microservice building blocks to improve reliability, data security, reusability, and developer velocity.
@@ -31,7 +39,7 @@ Senior Software Engineer (2017-2020)
 - Worked with NLU researchers to enable experimentation within a principled platform, and a path to bring winning ideas into production without creating tech debt.
 - Infrastructure tech lead on efforts to leverage LLMs to improve Assistant. Successfully shifted entire Assistant organization strategy and roadmap to enable LLMs to interface with existing APIs to cut months off the launch timeline.
 - As TL and interim manager, I built a happy, chill culture of excellence and developed successful ICs. 75% of the ICs on my teams have been promoted thus far for work I supervised, and only two team members have departed in the last 10 years.
-- Business impact: simplification and consolidation have driven CSAT and latency wins across many features, Assistant is a cornerstone of new Google hardware launches, and semantic APIs are enabling new LLM integrations.
+- Business impact: simplification and consolidation have driven CSAT and latency wins across many features, Assistant is a cornerstone of new Google hardware launches, and semantic APIs are enabling new LLM integrations via RAG and tool use.
 
 #### Google Insights Finder <span class="small-text">(2013-2020)</span>
 
